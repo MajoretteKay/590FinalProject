@@ -1,0 +1,15 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl pawn_it_it041e_model_it_it041e_01_BM
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Bump it_it041e_01_nmout.png
+map_Kd it_it041e_01_bmout.png
+map_Ks it_it041e_01_mmout.png
